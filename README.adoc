@@ -3,7 +3,7 @@
 == КАК Установить
 1) установим все необхаодимые библиотеки:
 
-* ` pip install numpy opencv-python PyAudio`
+* `pip install numpy opencv-python PyAudio`
 
 == Запуск
 
